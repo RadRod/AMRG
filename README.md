@@ -25,3 +25,5 @@ Misc features:
 - Automatically prevents duplicates from being added to output romlist
 - User definable romlist path, output directory and filename
 - Quick tag search (only searches romlist files that have an accomodating .tag file)
+
+For any questions/comments or to report a bug, please contact me on the Hyperpie FB group (or the forums).
