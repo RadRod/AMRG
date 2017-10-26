@@ -23,6 +23,7 @@ Misc features:
 - Quick tag search (only searches romlist files that have an accomodating .tag file)
 
 List of available commands:
+
 --help          -h                              Print this help information 
 
 --about         -a                              Print the about banner and exit 
