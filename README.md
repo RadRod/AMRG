@@ -42,7 +42,8 @@ List of available commands:
 
 --param         -p      [param option]          Parameter (token) in romlist to compare to. default: title 
 
-Available param (-p) options:   (only applies to custom search mode) 
+Available param (-p) options:   (only applies to custom search mode)
+
 rom     title           year            manufacturer 
 
 Command line examples: 
