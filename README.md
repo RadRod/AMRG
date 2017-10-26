@@ -40,11 +40,17 @@ rom     title           year            manufacturer
 Command line examples:
 
 AMRG -t
+
 AMRG -t -f faves.txt
+
 AMRG -t -o c:\myromlists -f faves.txt
+
 AMRG -t -r c:\AM\attract\romlists -f faves.txt -o c:\myromlists
+
 AMRG -s mario,luigi,yoshi -p title c:\AM\attract\romlists -f mario.txt -o c:\myromlists
+
 AMRG -s 1982,1983,1986 -p year -f 80s.txt
+
 AMRG -s capcom -p manufacturer c:\AM\attract\romlists -f capcom.txt -o c:\myromlists
 
 Remember that this tool is still in beta, so there may still be a bug or 2.
