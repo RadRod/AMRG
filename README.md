@@ -1,6 +1,9 @@
 Title: Attract Mode romlist generator v2.0b
+
 Date: 10/25/17
+
 Author: Steve Sherrod
+
 URL: http://www.hyperpie.org/
 
 This tool gives the user the ability to create a romlist from favorites tagged via Attract Mode, or by
