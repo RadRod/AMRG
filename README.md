@@ -8,6 +8,8 @@ URL: http://www.hyperpie.org/
 
 Remember that this tool is still in beta, so there may still be a bug or 2!
 
+Description:
+
 This tool gives the user the ability to create a romlist from favorites tagged via Attract Mode, or by
 specifying custom search criteria. This tool can be useful for helping to create collections romlists etc.
 This was written as part of Hyperpie V2.
