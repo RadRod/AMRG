@@ -44,7 +44,7 @@ List of available commands:
 
 Available param (-p) options:   (only applies to custom search mode)
 
-rom     title           year            manufacturer 
+rom, title, year, manufacturer 
 
 Command line examples: 
 
