@@ -6,6 +6,8 @@ Author: Steve Sherrod
 
 URL: http://www.hyperpie.org/
 
+Remember that this tool is still in beta, so there may still be a bug or 2!
+
 This tool gives the user the ability to create a romlist from favorites tagged via Attract Mode, or by
 specifying custom search criteria. This tool can be useful for helping to create collections romlists etc.
 This was written as part of Hyperpie V2.
@@ -62,6 +64,5 @@ AMRG -s 1982,1983,1986 -p year -f 80s.txt
 
 AMRG -s capcom -p manufacturer c:\AM\attract\romlists -f capcom.txt -o c:\myromlists 
 
-Remember that this tool is still in beta, so there may still be a bug or 2. 
 
 That's pretty much it! If you have any questions or comments, feel free to contact me on the Hyperpie FB group or forums. 
